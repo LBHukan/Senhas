@@ -2,4 +2,7 @@ Modulo 4 Python -- longitude
 modulo 5 Redes -- firewall
 modulo 6 Socket -- mercurio
 modulo 7 Analise1 -- termoeletrica
+Módulo 23 - DoS, DDoS e Botnet/ Módulo 26- Wireless Hacking 3/ -- metasploit
+Modulo 27 - Wireless Hacking e Iot/ -- aircrack-ng
+Modulo 28 - Privacidade e Anonimato -- proxy
 Modulo 30 - Hacking Gadgets -- lista
