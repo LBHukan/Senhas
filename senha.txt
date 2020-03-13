@@ -1,0 +1,5 @@
+Modulo 4 Python -- longitude
+modulo 5 Redes -- firewall
+modulo 6 Socket -- mercurio
+modulo 7 Analise1 -- termoeletrica
+Modulo 30 - Hacking Gadgets -- lista
