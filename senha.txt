@@ -2,7 +2,26 @@ Modulo 4 Python -- longitude
 modulo 5 Redes -- firewall
 modulo 6 Socket -- mercurio
 modulo 7 Analise1 -- termoeletrica
+Modulo 8 - Descoberta e Análise de Redes e Serviços 2/ -- xiaomi
+Modulo 9 -- heartbleed
+Modulo 10 -- exploit
+Modulo 11 -- oasp
+Modulo 12 -- hash
+Modulo 13 -- hydra
+Modulo 14 -- openvas
+Modulo 15 -- acunetix
+Modulo 16 -- python
+Modulo 17 -- bufferoverflow
+Modulo 18 -- hashcat
+Modulo 19 -- ngrok
+Modulo 20 -- sslstrip
+Modulo 21 -- raspberrypi
+Modulo 22 -- burpsuite
 Módulo 23 - DoS, DDoS e Botnet/ Módulo 26- Wireless Hacking 3/ -- metasploit
+Modulo 24 --
+Modulo 25 --
+Modulo 26 --
 Modulo 27 - Wireless Hacking e Iot/ -- aircrack-ng
 Modulo 28 - Privacidade e Anonimato -- proxy
+Modulo 29 --
 Modulo 30 - Hacking Gadgets -- lista
